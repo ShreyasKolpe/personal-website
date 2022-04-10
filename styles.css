@@ -2,8 +2,13 @@ body {
     background-color: #fbefcc;
 }
 
+nav {
+    background-color: #e0876a;
+}
+
 #myPic {
     width: 200px;
+    height: 200px;
 }
 
 footer {
