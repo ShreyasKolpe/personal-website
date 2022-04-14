@@ -1,9 +1,13 @@
 body {
-    background-color: #fbefcc;
+    background-color: #f9ccac;
 }
 
 nav {
     background-color: #e0876a;
+}
+
+.card {
+    background-color: #fbefcc;
 }
 
 footer {
