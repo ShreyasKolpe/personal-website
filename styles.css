@@ -2,12 +2,31 @@ body {
     background-color: #f9ccac;
 }
 
-nav {
+nav.navbar {
     background-color: #e0876a;
 }
 
 .card {
+    color: #674d3c;
     background-color: #fbefcc;
+}
+
+.card .btn {
+    background-color: #e0876a;
+    border: none;
+}
+
+#contact a {
+    color: #674d3c
+}
+
+#contact a:hover {
+    color: #e0876a;
+}
+
+i {
+    font-size: 2rem; 
+    color: #e0876a;
 }
 
 footer {
@@ -17,4 +36,12 @@ footer {
 
 footer p {
     width: 100%;
+}
+
+footer a {
+    color: #674d3c
+}
+
+footer a:hover {
+    color: #fbefcc;
 }
