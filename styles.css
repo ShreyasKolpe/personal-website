@@ -7,13 +7,16 @@ nav.navbar {
 }
 
 .card {
-    color: #674d3c;
     background-color: #fbefcc;
 }
 
 .card .btn {
     background-color: #e0876a;
     border: none;
+}
+
+.text-dark-on-light {
+    color: #674d3c;
 }
 
 #contact a {
