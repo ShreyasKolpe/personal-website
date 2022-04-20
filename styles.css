@@ -19,11 +19,7 @@ nav.navbar {
     color: #674d3c;
 }
 
-#contact a {
-    color: #674d3c
-}
-
-#contact a:hover {
+a.text-dark-on-light:hover {
     color: #e0876a;
 }
 
@@ -41,10 +37,6 @@ footer p {
     width: 100%;
 }
 
-footer a {
-    color: #674d3c
-}
-
-footer a:hover {
+footer a.text-dark-on-light:hover {
     color: #fbefcc;
 }
